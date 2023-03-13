@@ -4,4 +4,4 @@
 
 ## Team
 
-- Lead Developer: [Gabriel Monge]("https://github.com/Gabrielmong")
+- Lead Developer: [Gabriel Monge](https://github.com/Gabrielmong)
